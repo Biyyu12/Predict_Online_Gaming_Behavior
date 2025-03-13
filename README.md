@@ -1,4 +1,5 @@
-# 🔍 Comparative Analysis of Engagement Level Prediction Models
+# 🔍 Predict Online Gaming Behavior
+
 ## 📌 Deskripsi
 Proyek ini bertujuan untuk membandingkan tiga model machine learning—XGBoost, Random Forest, dan Logistic Regression—dalam memprediksi engagement level pemain terhadap suatu game. Selain itu, proyek ini juga mengidentifikasi fitur utama yang berpengaruh terhadap engagement level untuk membantu pengambilan keputusan dalam pengembangan game.
 
