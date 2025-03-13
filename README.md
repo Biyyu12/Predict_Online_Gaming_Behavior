@@ -1,8 +1,8 @@
-#🔍 Comparative Analysis of Engagement Level Prediction Models
-##📌 Deskripsi
+# 🔍 Comparative Analysis of Engagement Level Prediction Models
+## 📌 Deskripsi
 Proyek ini bertujuan untuk membandingkan tiga model machine learning—XGBoost, Random Forest, dan Logistic Regression—dalam memprediksi engagement level pemain terhadap suatu game. Selain itu, proyek ini juga mengidentifikasi fitur utama yang berpengaruh terhadap engagement level untuk membantu pengambilan keputusan dalam pengembangan game.
 
-##📂 Dataset
+## 📂 Dataset
 
 Sumber: Predict Online Gaming Behavior Dataset
 Jumlah Data: 40.034 sampel
@@ -12,7 +12,7 @@ Gameplay: GameGenre, PlayTimeHours, SessionsPerWeek, AvgSessionDurationMinutes, 
 Interaksi dalam game: InGamePurchases, GameDifficulty, AchievementsUnlocked
 Target: EngagementLevel
 
-##⚙️ Metodologi
+## ⚙️ Metodologi
 
 Preprocessing Data
 Seleksi fitur
@@ -26,7 +26,7 @@ Logistic Regression
 Evaluasi Model
 Metrik yang digunakan: Accuracy, Precision, Recall, F1-score
 
-##🚀 Cara Menjalankan Proyek
+## 🚀 Cara Menjalankan Proyek
 
 Instal Dependensi
 ```
@@ -39,8 +39,8 @@ jupyter notebook
 
 Buka dan jalankan notebook utama yang berisi langkah-langkah analisis.
 
-##📑 Laporan Lengkap
+## 📑 Laporan Lengkap
 Laporan lebih detail mengenai hasil analisis tersedia dalam dokumen terpisah.
 
-##📌 Catatan
+## 📌 Catatan
 Proyek ini dibuat untuk menyelesaikan tugas dari Dicoding dan tidak memiliki lisensi resmi.
